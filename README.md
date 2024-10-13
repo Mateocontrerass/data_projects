@@ -1,6 +1,6 @@
-# Data Science Repository
+# Data Science and Analytics Repository
 
-## Welcome to my Data Science Projects repository!
+## Welcome to my Data Science and Analytics Repository!
 
 Here you will find a collection of my data science projects showcasing my skills and expertise on the field. Along each project you can see the technologies I used, the results and the description of the problem.
 
