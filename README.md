@@ -1,4 +1,4 @@
-# Data Science Repo
+# Data Science Repository
 
 ## Welcome to my Data Science Projects repository!
 
